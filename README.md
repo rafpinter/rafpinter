@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafaela Pinter</h1>
 <h3 align="center">ML engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafpinter" alt="rafpinter" /></a> </p>
+- 🔭 I’m currently working **at Falconi delivering Machine Learning models in production**
+
+- 🌱 I’m currently learning **more about the Azure and GCP environment**
+
+- 💬 Ask me about **Python, MLOps, MLflow, Kedro, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
 
 - 📫 How to reach me **rafaelaspinter@gmail.com**
 
