@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working **at Falconi delivering Machine Learning models in production**
 
-- 🌱 I’m currently learning **more about the Azure and GCP environment**
-
 - 💬 Ask me about **Python, MLOps, MLflow, Kedro, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
 
 - 📫 How to reach me **rafaelaspinter@gmail.com**
