@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working **at Falconi delivering Machine Learning models in production**
 
+- 📘 Computer Science Master Student @ Université de Montréal
+
 - 💬 Ask me about **Python, MLOps, MLflow, Kedro, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
 
 - 📫 How to reach me **rafaelaspinter@gmail.com**
