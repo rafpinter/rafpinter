@@ -5,7 +5,7 @@
 
 - 📘 Computer Science Master Student @ Université de Montréal
 
-- 💬 Ask me about **Python, MLOps, MLflow, Kedro, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
+- 💬 Ask me about **Python, MLOps, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
 
 - 📫 How to reach me **rafaelaspinter@gmail.com**
 
