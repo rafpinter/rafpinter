@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafaela Pinter</h1>
 <h3 align="center">ML engineer</h3>
 
-- 🔭 I’m currently working **at Falconi delivering Machine Learning models in production**
-
 - 📘 Computer Science Master Student @ Université de Montréal
 
 - 💬 Ask me about **Python, MLOps, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
