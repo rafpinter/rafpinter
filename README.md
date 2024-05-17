@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafaela Pinter</h1>
+<h1 align="center">Hey 👋, I'm Rafaela Pinter</h1>
 <h3 align="center">ML engineer</h3>
 
 - 📘 Computer Science Master Student @ Université de Montréal
