@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Rafaela Pinter</h1>
 <h3 align="center">ML engineer</h3>
 
-- 📘 Computer Science Master Student @ Université de Montréal
+- 📘 M.Sc in Computer Science @ Université de Montréal
 
 - 💬 Ask me about **Python, MLOps, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
-
-- 📫 How to reach me **rafaelaspinter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
