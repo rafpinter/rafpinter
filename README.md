@@ -3,7 +3,7 @@
 
 - 📘 M.Sc in Computer Science @ Université de Montréal
 
-- 💬 Ask me about **Python, MLOps, Machine Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
+- 💬 Ask me about **Python, MLOps, Machine Learning, Deep Learning, Statistics, and Biotechnology (yes I'm a bioprocess engineer as well)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
